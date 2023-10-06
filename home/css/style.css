@@ -1,0 +1,39 @@
+.home {
+    background-color: #24353F;
+}
+
+a {
+    text-decoration: none;
+
+}
+
+.text a {
+    font-size: 20px;
+    color: white;
+}
+
+.logout a {
+    color: rgba(255, 255, 255, .5);
+    background-color: transparent;
+    transition: all 1s;
+    border: 1px solid #ffc107;
+    font-family: 'Titillium Web', sans-serif;
+
+
+}
+
+.logout a:hover {
+    color: white;
+    background-color: #ffc107;
+}
+
+.navbar {
+    box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1);
+}
+
+.name {
+    color: #1992A6;
+    box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1);
+
+}
+

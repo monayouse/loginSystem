@@ -1,0 +1,40 @@
+
+
+a{
+    text-decoration: none;
+}
+
+
+
+.login{
+    background-color: #24353F;
+}
+
+
+
+.loginContent{
+    box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1);
+    color: #17A2B8;
+
+}
+
+
+input{
+    border: 1px solid #ced4da !important;
+    background-color: transparent !important;
+    color: white;
+}
+
+
+.name::placeholder {
+    color: white;
+    opacity: 1;
+}
+.email::placeholder {
+    color: white;
+    opacity: 1;
+}
+.password::placeholder {
+    color: white;
+    opacity: 1;
+}
